@@ -1,16 +1,13 @@
-### Hi there 👋
+# Frozen Blood
 
-<!--
-**brightdev0404/brightdev0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Activity
+![Metrics](./github-metrics.svg)
 
-Here are some ideas to get you started:
+## Consistency
+![Streak](https://streak-stats.demolab.com?user=brightdev0404&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Writing
+![DEV.to](./devto-metrics.svg)
+
+- https://dev.to/frozenblood
+- https://app.daily.dev/frozenblood
