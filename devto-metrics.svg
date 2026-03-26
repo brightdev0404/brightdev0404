@@ -28,6 +28,20 @@
                                 </svg>
                                 <div class="infos">
                                     <div class="left">
+                                        <div class="date">25 Mar 2026</div>
+                                    </div>
+                                    <div class="right">
+                                        <div class="title">The API Was “Fast” — Until One User Made It Slow for Everyone</div>
+                                        <div class="description">We had an API that was consistently fast. ~80ms average response time. No complaints.  Then one day,...</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="field post largeable-width-half">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"/>
+                                </svg>
+                                <div class="infos">
+                                    <div class="left">
                                         <div class="date">5 Mar 2026</div>
                                     </div>
                                     <div class="right">
@@ -89,20 +103,6 @@
                                     <div class="right">
                                         <div class="title">The Day I Learned Node.js “Timeouts” Don’t Mean What I Thought They Meant</div>
                                         <div class="description">I used to think timeouts were simple: set a timeout, request fails after X seconds, done. Then I...</div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="field post largeable-width-half">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"/>
-                                </svg>
-                                <div class="infos">
-                                    <div class="left">
-                                        <div class="date">9 Feb 2026</div>
-                                    </div>
-                                    <div class="right">
-                                        <div class="title">Your Web App’s Data Can Disappear — Even If the User Never Cleared It</div>
-                                        <div class="description">Here’s something many developers don’t realize until it hurts: the browser is allowed to delete your...</div>
                                     </div>
                                 </div>
                             </div>
